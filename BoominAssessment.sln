@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30406.217
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BoominApi", "BoominApi\BoominApi.csproj", "{01F99411-8460-4A80-B0ED-2C4EAADE30C2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BoominApi.Test", "BoominApi.Test\BoominApi.Test.csproj", "{BBD2CCC4-F789-4B7B-9B38-2FC59CBAD3D4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{01F99411-8460-4A80-B0ED-2C4EAADE30C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01F99411-8460-4A80-B0ED-2C4EAADE30C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01F99411-8460-4A80-B0ED-2C4EAADE30C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01F99411-8460-4A80-B0ED-2C4EAADE30C2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BBD2CCC4-F789-4B7B-9B38-2FC59CBAD3D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBD2CCC4-F789-4B7B-9B38-2FC59CBAD3D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BBD2CCC4-F789-4B7B-9B38-2FC59CBAD3D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BBD2CCC4-F789-4B7B-9B38-2FC59CBAD3D4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F872F43F-2E37-4EB2-B36F-CAE108969399}
+	EndGlobalSection
+EndGlobal
